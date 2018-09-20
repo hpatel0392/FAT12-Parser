@@ -1,7 +1,14 @@
-Harsh Patel
+# FAT12 Parser and file recovery tool
 
 This is a FAT12 parser. It takes in 2 arguments which are the disc image and the output
 directory
+
+DESIGN:
+--------
+first compile using the makefile  
+and the use as such:  
+> f12parse <disk.img> <output directory>
+
 
 DESIGN:
 --------
