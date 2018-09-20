@@ -4,8 +4,7 @@ This is a FAT12 parser that looks for fies/directories marked as deleted and out
 
 DESIGN:
 --------
-first compile using the makefile  
-and the use as such:  
+first compile using the makefile and the use as such:  
 > ./f12parse < disk.img> < output directory>
 
 
