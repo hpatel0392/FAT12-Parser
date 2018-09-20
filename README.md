@@ -7,7 +7,7 @@ DESIGN:
 --------
 first compile using the makefile  
 and the use as such:  
-> f12parse <disk.img> <output directory>
+> f12parse < disk.img> < output directory>
 
 
 DESIGN:
