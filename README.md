@@ -1,7 +1,6 @@
 # FAT12 Parser and file recovery tool
 
-This is a FAT12 parser. It takes in 2 arguments which are the disc image and the output
-directory
+This is a FAT12 parser that looks for fies/directories marked as deleted and outputs them to the specified directory.  
 
 DESIGN:
 --------
